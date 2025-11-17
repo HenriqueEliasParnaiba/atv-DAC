@@ -1,0 +1,9 @@
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\application\LivroService.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\domain\model\Livro.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\domain\repository\LivroRepository.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\infrastructure\repository\LivroRepositoryJpa.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\interfaceapi\dto\LivroRequest.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\interfaceapi\dto\LivroResponse.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\interfaceapi\handler\ApiExceptionHandler.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\interfaceapi\LivroController.java
+C:\Users\henri\Downloads\sistema-livros\src\main\java\com\example\livros\LivrosApplication.java

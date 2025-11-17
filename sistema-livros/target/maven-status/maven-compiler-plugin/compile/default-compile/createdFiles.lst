@@ -1,0 +1,9 @@
+com\example\livros\domain\repository\LivroRepository.class
+com\example\livros\interfaceapi\dto\LivroRequest.class
+com\example\livros\interfaceapi\LivroController.class
+com\example\livros\infrastructure\repository\LivroRepositoryJpa.class
+com\example\livros\LivrosApplication.class
+com\example\livros\application\LivroService.class
+com\example\livros\domain\model\Livro.class
+com\example\livros\interfaceapi\dto\LivroResponse.class
+com\example\livros\interfaceapi\handler\ApiExceptionHandler.class
